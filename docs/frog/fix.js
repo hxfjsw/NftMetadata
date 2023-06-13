@@ -1,5 +1,6 @@
 //读取images目录下的所有文件
 
+return;
 var fs = require('fs');
 
 var files = fs.readdirSync('./images');
