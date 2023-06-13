@@ -2,7 +2,7 @@ var fs = require('fs');
 
 for (let i = 0; i < 100; i++) {
     let metadata = {
-        "image": "images/" + i%13 + ".png",
+        "image": "https://hxfjsw.github.io/NftMetadata/frog/images/" + i%13 + ".png",
         "name": "Frog #" + i,
     };
 
